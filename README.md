@@ -1,4 +1,4 @@
-# Champions League API ⚽
+# Football API ⚽
 
 A REST API built with Node.js, Express, TypeScript, and PostgreSQL for managing Champions League clubs and players.
 
